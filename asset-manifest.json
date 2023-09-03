@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cloveri-slider/static/css/main.30744410.css",
+    "main.js": "/cloveri-slider/static/js/main.297bc0f7.js",
+    "static/media/img1.jpg": "/cloveri-slider/static/media/img1.2f38bdf6f80b92c19ab8.jpg",
+    "static/media/img2.jpg": "/cloveri-slider/static/media/img2.af941264923552d98931.jpg",
+    "index.html": "/cloveri-slider/index.html",
+    "static/media/left-chevron-notactive.svg": "/cloveri-slider/static/media/left-chevron-notactive.45fc3c00c2033a478620.svg",
+    "static/media/chevron-notactive.svg": "/cloveri-slider/static/media/chevron-notactive.99ed8d15daf1d589be3a.svg",
+    "static/media/dot-active.svg": "/cloveri-slider/static/media/dot-active.6fe5c362fa2966901e79.svg",
+    "static/media/dot-notactive.svg": "/cloveri-slider/static/media/dot-notactive.b8fd736b62da752b8df9.svg",
+    "main.30744410.css.map": "/cloveri-slider/static/css/main.30744410.css.map",
+    "main.297bc0f7.js.map": "/cloveri-slider/static/js/main.297bc0f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30744410.css",
+    "static/js/main.297bc0f7.js"
+  ]
+}
