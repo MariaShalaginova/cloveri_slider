@@ -1,0 +1,38 @@
+.button {
+    width: initial;
+    height: 64px;
+    background-color: rgba(59, 113, 211, 1);
+    border-radius: 8px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.button:hover {
+    background-color: rgba(39, 93, 191, 1);
+    cursor: pointer;
+}
+
+.button:active {
+    background-color: rgba(19, 73, 171, 1);
+}
+
+@media screen and (max-width: 1440px) and (max-width: 744px) {
+    
+    .button {
+        height: 58px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+}    
+
+@media screen and (max-width: 375px) {
+    
+    .button {
+        height: 54px;
+        font-size: 18px;
+        line-height: 22px;
+    }
+}    

@@ -1,0 +1,33 @@
+.textBlock {
+    width: 100%;
+    height: 428px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1440px) {
+
+    .textBlock {
+        height: 374px;
+    }
+
+  }
+  
+  @media screen and (max-width: 744px) {
+
+   .textBlock {
+        margin: 5px auto 10px auto;
+        max-height: 210px;
+    }
+  
+}    
+
+@media screen and (max-width: 375px) {
+     
+   .textBlock {
+        max-height: 292px;
+        padding-bottom: 10px;
+    }
+  
+}   
