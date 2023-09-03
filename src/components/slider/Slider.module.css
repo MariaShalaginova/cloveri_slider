@@ -1,6 +1,7 @@
 .container {
     max-width: 1640px;
-    margin: 20px auto;
+    margin: 10% auto;
+    width: 83%;
 }
 
 .slide {
@@ -67,6 +68,7 @@
      
     .container {
         max-width: 620px;
+        width: 83%;
     }
 
     .card {
@@ -115,4 +117,7 @@
         margin-top: 10px;
    }
   
+   .imageContainer img {
+        width: 110%; 
+    }
 }   

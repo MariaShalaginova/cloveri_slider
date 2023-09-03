@@ -9,7 +9,7 @@
 @media screen and (max-width: 1440px) {
 
     .textBlock {
-        height: 374px;
+        max-height: 374px;
     }
 
   }
@@ -18,7 +18,9 @@
 
    .textBlock {
         margin: 5px auto 10px auto;
-        max-height: 210px;
+        max-height: 270px;
+        justify-content: flex-start;
+        margin-top: 0px;
     }
   
 }    
@@ -26,8 +28,9 @@
 @media screen and (max-width: 375px) {
      
    .textBlock {
-        max-height: 292px;
+        max-height: 280px;
         padding-bottom: 10px;
+        justify-content: space-between;
     }
   
 }   
